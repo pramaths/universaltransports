@@ -108,7 +108,6 @@ export default function Home() {
 
   return (
     <main className="flex min-h-screen flex-col bg-white">
-      {/* Navigation */}
       <header className="sticky top-0 z-50 w-full border-b bg-white shadow-sm">
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-6 md:gap-10">
